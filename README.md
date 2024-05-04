@@ -53,7 +53,10 @@ Execute each Jupyter Notebook file (Part1_Bill_Generation.ipynb, Part2_Word_Embe
 Ensure dataset.json is present in the project directory.
 
 # 📸 Video or Image:
+**Generated Bill by part 1**
 ![Example Image](part1_generated_bill.png)
+
+**t-SNE Algorthim output of part2**
 ![Example Image](part1_tsne_output.png)
 
 
